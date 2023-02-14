@@ -1,0 +1,1 @@
+Sentence embeddings map text to dense vectors in high-dimensional space, enabling semantic similarity search beyond keyword matching.
