@@ -1,0 +1,2 @@
+Machine learning pipelines transform raw data into features, train models, and deploy predictions at scale.
+Feature stores centralize reusable transformations so training and serving use identical preprocessing logic.

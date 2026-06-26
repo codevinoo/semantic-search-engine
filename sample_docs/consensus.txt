@@ -1,0 +1,2 @@
+Consensus algorithms like Raft and Paxos ensure replicated state machines agree on a single ordered log across unreliable networks.
+Distributed systems must handle node failures, network partitions, and message delays while preserving consistency guarantees.
